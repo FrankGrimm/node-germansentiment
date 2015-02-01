@@ -1,5 +1,7 @@
 'use strict';
 
+// this test assumes that bawlr.csv is present in the directory "../data/" (relative to the repository location)
+
 var sentiments = require('../lib/sentiments');
 var testdata = require('./testdata');
 
