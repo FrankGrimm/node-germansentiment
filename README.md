@@ -16,6 +16,8 @@ options.encoding: input file encoding (defaults to utf-8)
 
 options.normalizetokens: true (default)/false - Use lowercase tokens in all cases (otherwise lookup will be case-sensitive
 
+options.normalizescore: true (default)/false - Normalize scoring results to the interval [-1:1] (only applies if the wordlist doesn't already contain normalized values)
+
 ### Test script
 
 To run some tests on the included analysis, simply run:
