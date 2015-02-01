@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/FrankGrimm/node-germansentiment/issues"
   },
-  "homepage": "https://github.com/FrankGrimm/node-germansentiment"
+  "homepage": "https://github.com/FrankGrimm/node-germansentiment",
+  "dependencies": {
+    "csv": "^0.4.1"
+  }
 }
