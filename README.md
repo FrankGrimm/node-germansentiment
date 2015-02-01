@@ -16,8 +16,6 @@ options.encoding: input file encoding (defaults to utf-8)
 
 options.normalizetokens: true (default)/false - Use lowercase tokens in all cases (otherwise lookup will be case-sensitive
 
-options.normalizeranges: false (default)/true - Set to true to normalize value ranges to [-1:1] - this might decrease precision in some cases
-
 ### Test script
 
 To run some tests on the included analysis, simply run:
