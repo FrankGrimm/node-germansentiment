@@ -1,3 +1,15 @@
+==== Data ====
+
+SentiWS: 
+R. Remus, U. Quasthoff & G. Heyer: SentiWS - a Publicly Available German-language Resource for Sentiment Analysis.
+In: Proceedings of the 7th International Language Ressources and Evaluation (LREC'10), pp. 1168--1171, 2010
+
+BY-NC-SA 3 http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+BAWL-R:
+Since BAWL-R licence is not clearly stated, it is not included in this package. Usage license and data can be obtained at http://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/allgpsy/BAWL-R/index.html
+
+==== Code ====
 The MIT License (MIT)
 
 Copyright (c) 2015 Frank Grimm
