@@ -6,7 +6,8 @@
   "scripts": {
     "test": "npm run test-sentiws && npm run test-bawlr",
     "test-sentiws": "node test/sentiws.js",
-    "test-bawlr": "node test/bawlr.js"
+    "test-bawlr": "node test/bawlr.js",
+    "test-tokenizer": "node test/tokenizer.js"
   },
   "repository": {
     "type": "git",
