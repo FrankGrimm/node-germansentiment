@@ -9,6 +9,6 @@ sentiments({wordlist: 'sentiws'}, function(err, score) {
         console.log(err);
         return;
     }
-    
 
+    testdata.evaluate(score);
 });

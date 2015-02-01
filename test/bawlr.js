@@ -9,5 +9,6 @@ sentiments({wordlist: 'bawlr', datadirectory: '../data/'}, function(err, score) 
         console.log(err);
         return;
     }
-    console.log('loaded');
+
+    testdata.evaluate(score);
 });
