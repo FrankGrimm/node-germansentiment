@@ -2,7 +2,7 @@
 
 ## Usage
 
-TODO
+Please refer to example.js in the root folder
 
 ### Options
 
